@@ -1,0 +1,2 @@
+class ModuleTesting:
+    pass
